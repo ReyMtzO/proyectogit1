@@ -1,3 +1,4 @@
 Agregar archivo en el staging area.
 Modificación para el archivo en el branch ramatest.
 Mensaje de prueba para realizar el merge con la branch main.
+Realizamos un cambio más para verificar proceso del merge.
